@@ -2,7 +2,7 @@
 
 ## Project 1: Personal Tracker for College Students
 
-Project Link: [https://github.com/users/ngon3769/projects/1](https://github.com/ngon3769/Personal-Tracker-Project/tree/main)
+Link to Project: [Personal Tracker Project](https://github.com/ngon3769/Personal-Tracker-Project/tree/main)
 
 This project was a homework assignment for my database design (CISC 450) class. It was broken up into 2 parts:
 - Part 1: Designing the database schema, setting it up with SQLAlchemy and SQLite, and populating it with data.
@@ -10,6 +10,8 @@ This project was a homework assignment for my database design (CISC 450) class. 
 
 
 ## Project 2: Paper on Exploring Gender and Religious Bias in LLMs
+
+Link to Project: [Paper on Exoloring Gender and Religious Bias in LLMs](https://github.com/ngon3769/Summa-Cum-Laude-Paper/tree/main)
 
 I wrote this paper for my Summa Cum Laude oral examination. The goal was to incorporate 3 distinct disciplines, so I chose
 Computer Science (my major), Theology, and Women/Gender Studies.
