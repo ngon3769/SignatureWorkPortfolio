@@ -16,7 +16,9 @@ Link to Project: [Paper on Exploring Gender and Religious Bias in LLMs](https://
 I wrote this paper for my Summa Cum Laude oral examination. The goal was to incorporate 3 distinct disciplines, so I chose
 Computer Science (my major), Theology, and Women/Gender Studies.
 
-## Project 3: Atlassian Internship Project
+## Project 3: Internship Project
+
+Link to Project: [Internship Project](https://github.com/ngon3769/Internship-Project/tree/main)
 
 I interned as a Software Engineer Intern at Atlassian from May - Aug 2024. The code I wrote for my project cannot be linked
 here, but here is a link to the project description.
