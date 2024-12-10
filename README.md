@@ -20,5 +20,5 @@ Computer Science (my major), Theology, and Women/Gender Studies.
 
 Link to Project: [Internship Project](https://github.com/ngon3769/Internship-Project/tree/main)
 
-I interned as a Software Engineer Intern at Atlassian from May - Aug 2024. The code I wrote for my project cannot be linked
+I interned as a Software Engineer Intern at an Enterprise Software company from May - Aug 2024. The code I wrote for my project cannot be linked
 here, but here is a link to the project description.
