@@ -2,6 +2,8 @@
 
 ## Project 1: Personal Tracker for College Students
 
+Project Link: https://github.com/users/ngon3769/projects/1
+
 This project was a homework assignment for my database design (CISC 450) class. It was broken up into 2 parts:
 - Part 1: Designing the database schema, setting it up with SQLAlchemy and SQLite, and populating it with data.
 - Part 2: Using the database to create a fully functional web server and web page (user interface) to interact with the database.
