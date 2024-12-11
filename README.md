@@ -46,7 +46,7 @@ Bias in AI has wide-ranging consequences, from reinforcing stereotypes to influe
 
 ## Project 3: Internship Project
 
-Link to Project Description: [Internship Project](https://github.com/ngon3769/SignatureWorkPortfolio/blob/main/Internship%20Project)
+Link to Project Description: [Internship Project](https://github.com/ngon3769/Internship-Project)
 
 During my Software Engineer Internship at an enterprise software company (May-August 2024), I developed an email delivery workflow for release update notifications. My task was to create a new resilient, adabtable, and robust system with real-time observability into the email delivery provess.
 
