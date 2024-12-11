@@ -60,9 +60,9 @@ To solve this, I designed and implemented a new email delivery workflow using Ne
 
 Key features of the workflow included:
 
-Resilience: Retry mechanisms and dead-letter queues to manage and recover from failures gracefully.
-Transparency: A user-friendly monitoring dashboard for tracking the status of email jobs in real time.
-Efficiency: Improved reliability, ensuring critical notifications reached their intended recipients without delays.
+- Resilience: Retry mechanisms and dead-letter queues to manage and recover from failures gracefully.
+- Transparency: A user-friendly monitoring dashboard for tracking the status of email jobs in real time.
+- Efficiency: Improved reliability, ensuring critical notifications reached their intended recipients without delays.
 By focusing on these aspects, I contributed to a system that not only met technical requirements but also enhanced the overall customer experience.
 
 ### Common Good Perspective:
