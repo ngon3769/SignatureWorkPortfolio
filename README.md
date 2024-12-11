@@ -13,8 +13,29 @@ This project was a homework assignment for my database design (CISC 450) class. 
 
 Link to Paper: [Paper on Exploring Gender and Religious Bias in LLMs](https://github.com/ngon3769/Summa-Cum-Laude-Paper/tree/main)
 
-I wrote this paper for my Summa Cum Laude oral examination. The goal was to incorporate 3 distinct disciplines, so I chose
-Computer Science (my major), Theology, and Women/Gender Studies.
+I wrote this paper on Exploring Gender and Religious Bias in LLMs for my Summa Cum Laude Oral Examination.
+
+At the University of St. Thomas, students with a GPA >= 3.90 have the option to take the Summa Cum Laude oral exam to
+recieve the Latin Honor upon graduation. I chose the option to write a paper and incorporated 3 disciplines: 
+Computer Science, Theology, and Women/Gender Studies. I was tasked with creating a committe of three professors,
+one from each of these disciplines. I chose the Department Chair for Computer Science, Dr. Sawin, to chair my
+committe and chose Dr. Mark McInroy who I took a Theology class with and Dr. Emily James who I took a Women's
+Literature class with as the other two.
+
+The paper was sent out to them a week prior to the scheduled in-person exam, and they came to the exam with prepared
+questions and discussion topics to assess my understanding of what I wrote on. After deliberation, it was a unanimous
+decision that I passed the exam and will be getting the Honors at my graduation in May 2025.
+
+Summarily, the paper addresses:
+
+- What LLMs are and their increasing prevalence.
+- What Gender and Religious bias entail, with examples.
+- Ways that these biases manifest in LLMs.
+- How these biases get embedded into LLMs.
+- Suggestions on how to curb the propagation of these biases in LLMs.
+- Implications of having these biases unchecked in LLMs.
+
+The discussions during the oral exam provided some additional insight and considerations, like why developers might be disincentivized to spend time addressing these biases during development.
 
 ## Project 3: Internship Project
 
