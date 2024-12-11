@@ -18,7 +18,7 @@ Computer Science (my major), Theology, and Women/Gender Studies.
 
 ## Project 3: Internship Project
 
-Link to Project: [Internship Project](https://github.com/ngon3769/Internship-Project/tree/main)
+Link to Project: [Internship Project](https://github.com/ngon3769/SignatureWorkPortfolio/blob/main/Internship%20Project)
 
 I interned as a Software Engineer Intern at an Enterprise Software company from May - Aug 2024. The code I wrote for my project cannot be linked
 here, but here is a link to the project description.
