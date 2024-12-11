@@ -11,7 +11,7 @@ This project was a homework assignment for my database design (CISC 450) class. 
 
 ## Project 2: Paper on Exploring Gender and Religious Bias in LLMs
 
-Link to Project: [Paper on Exploring Gender and Religious Bias in LLMs](https://github.com/ngon3769/Summa-Cum-Laude-Paper/tree/main)
+Link to Paper: [Paper on Exploring Gender and Religious Bias in LLMs](https://github.com/ngon3769/Summa-Cum-Laude-Paper/tree/main)
 
 I wrote this paper for my Summa Cum Laude oral examination. The goal was to incorporate 3 distinct disciplines, so I chose
 Computer Science (my major), Theology, and Women/Gender Studies.
