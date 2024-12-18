@@ -12,11 +12,9 @@ This project was a homework assignment for my database design (CISC 450) class. 
 
 **Part 2:** Using the database to create a fully functional web server and web page (user interface) to interact with the database.
 
-The Personal Tracker project addresses a common problem faced by college students: managing tasks, schedules, and resources effectively. By creating a tool that organizes and visualizes personal data, this project promotes academic success and mental well-being. It exemplifies the use of technology as a tool for empowerment, aligning with St. Thomas's value of serving others through knowledge and innovation.
+The motivation behind this project was the challenges students face in managing their complex lives. As a student juggling classes, assignments, work, and extracurricular activities, I've seen how easy it is to feel overwhelmed. What started as a database design assignment became a reflection of what students actually like myself need; a comprehensive way to see how all pieces of their lives fit together. Though the project only supports academic deadlines, future iterations will incorporate other aspects of student life like work and extracurriculars to help them stay on top of things. By designing features that track both academic deadlines and personal commitments, the tracker will acknowledge that student life isn't just about classes. It's about managing energy, maintaining relationships, and finding balance.
 
-While rooted in computer science, this project ties into psychology and education. Effective time management and organization are well-studied contributors to student success. By incorporating these principles, I was able to design a system that supports healthy habits and reduces stress. Moreover, the user interface design considered accessibility and inclusivity to ensure the tracker could be used by a diverse population of students.
-
-The broader impact of tools like this is significant. As technology increasingly shapes our lives, accessible and user-friendly systems can democratize resources and enable individuals to achieve their goals. This project embodies the idea that technology should serve humanity. By supporting students' academic and personal development, the tracker contributes to a more equitable and flourishing educational environment.
+What makes this meaningful is how it helps students take control of their time and reduce anxiety about missing important deadlines or commitments. Having everything in one place means one less thing to worry about, which aligns perfectly with St. Thomas's goal of advancing the common good, particularly by supporting students' mental health and overall success.
 
 ## Project 2: Paper on Exploring Gender and Religious Bias in LLMs
 
@@ -37,6 +35,14 @@ The paper examines:
 - The potential consequences of unchecked biases in LLMs.
 
 The discussions during the oral exam provided some additional insight and considerations, like why developers might be disincentivized to spend time addressing these biases during development.
+
+Working on this project showed me just how deeply intertwined technology and social issues are. As I dove into the research about gender and religious biases in Large Language Models, I discovered patterns that traced back decades before AI existed. The same gender stereotypes that kept women out of computer science in the 1960s were showing up in modern AI systems, just in more subtle ways. For instance, when given prompts about leadership roles, these models often defaulted to male pronouns, while caregiving roles defaulted to female pronouns.
+
+The religious biases were equally concerning. I found that LLMs often displayed oversimplified or stereotypical views of different faiths, particularly minority religions. This wasn't surprising given that these models learn from internet data, which reflects centuries of historical prejudices and power dynamics. What struck me most was how these biases could silently scale - a single biased model could affect millions of users, perpetuating these stereotypes in ways that would be hard to detect or correct.
+
+This research embodied St. Thomas's commitment to advancing the common good through critical examination of complex issues. By analyzing these biases from both technical and humanistic perspectives, I learned that since AI is taught to recognize patterns instead of understanding context, to buile ethical AI it is up to the creators to make the conscious effort to understand and address the historical and social contexts that shape our technology. 
+
+The most valuable lesson wasn't just identifying these biases but understanding why they persist. Companies often prioritize rapid development over careful bias mitigation, viewing it as an optional feature rather than a core requirement. This helped me realize that as a future developer, I have a responsibility to advocate for ethical considerations in AI development, even when it might be easier or more profitable to ignore them.
 
 This work integrates technical, social, and theological insights to address a critical issue. From a theological perspective, it emphasizes the importance of recognizing human dignity and preventing harm through technology. Incorporating feminist theory helped explore the structural roots of bias, connecting social systems to computational models. By combining these perspectives, the paper proposes solutions that balance technical rigor with ethical considerations, showcasing the importance of interdisciplinary thinking in solving modern challenges.
 
@@ -65,9 +71,9 @@ By focusing on these aspects, I contributed to a system that not only met techni
 
 Observability is key to building trust and satisfaction in any software system. This project shows how technical improvements can boost communication and transparency, creating stronger partnerships. Reliable notifications help build trust between the company and its clients, forming the foundation for lasting relationships.
 
-While the project was mostly technical, it also involved design thinking and communication. I focused on making the monitoring dashboard easy to use and action-oriented, with reliability and resilience at its core. Beyond the technical aspects, it highlights the importance of transparency, reflecting values like accountability and stewardship.
+This project also taught me an important lesson about impact that aligns with St. Thomas's mission of serving others through our work. While building the email delivery system, I initially focused on the technical challenges - implementing retry mechanisms, setting up monitoring dashboards, and ensuring reliable delivery. But watching the internal teams at the company use my system during my final weeks transformed my perspective as a developer. Before my solution, these teams struggled daily with a frustrating lack of visibility into email deliveries, making it hard to help customers troubleshooting their notification issues. Seeing them confidently use the workflow I built to quickly resolve problems showed me how technical solutions can directly improve people's work lives. The system now supports over 55,000 customer companies, but what matters most is how it helps both internal teams and customers feel more confident in their daily operations.
 
-By improving the reliability of release updates, this project helped strengthen the relationship between the company and its clients. It shows how technical work can create positive impact by fostering trust and supporting systems that prioritize transparency and reliability.
+This experience reshaped how I approach software development. I learned that when programming, it's not just about solving technical problems but also understanding the human impact of our solutions. Now, when I work with software, I think beyond just functionality and efficiency. I consider how my work will affect the people using it.
 
 ## Conclusion
 
